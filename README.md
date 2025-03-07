@@ -145,7 +145,4 @@ Uses **Grafana** to visualize logged intrusion data from **InfluxDB**.
 🔹 Implement **asynchronous packet processing** to handle high-speed traffic.
 🔹 Use **multi-threading** to improve real-time detection efficiency.
 
-### **5️⃣ Enhance Visualization & Reporting**
-🔹 Improve **Grafana dashboards** by adding **custom widgets and filters**.
-🔹 Generate **detailed PDF reports** summarizing security events.
 ---
