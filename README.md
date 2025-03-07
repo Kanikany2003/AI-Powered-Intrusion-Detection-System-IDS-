@@ -107,6 +107,6 @@ Uses **Grafana** to visualize logged intrusion data from **InfluxDB**.
 ✅ **Monitor intrusion trends via dynamic dashboards**.
 
 💡 **Example Grafana Dashboard:**
-[![Grafana Intrusion Logs](https://user-images.githubusercontent.com/example/grafana-ids.png)](http://10.211.55.6:3000/d/ceeev455zvqpse/intrusions-detection-system?orgId=1&from=now-1y&to=now&timezone=browser&tab=queries)
+http://localhost:3000/d/ceeev455zvqpse/intrusions-detection-system?orgId=1&from=2024-03-07T08:48:05.971Z&to=2025-03-07T08:48:05.971Z&timezone=browser&tab=queries&viewPanel=panel-4&theme=light
 
 ---
